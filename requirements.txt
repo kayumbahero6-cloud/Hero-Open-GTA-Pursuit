@@ -1,0 +1,2 @@
+# This game has no Python dependencies (setup.py and server.py use only the standard library).
+# This file exists so hosts like Render can run "pip install -r requirements.txt" without failing.
